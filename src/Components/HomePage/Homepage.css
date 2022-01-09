@@ -1,0 +1,74 @@
+.container{
+    color: white;
+    background-color: rgba(2, 6, 39, 0.644);
+    padding: 20px 0;
+}
+.images-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+img{
+    width: 50%;
+}
+
+span{
+    margin-right: 15px;
+    font-size: 16px;
+}
+.year{
+    background-color: rgb(209, 209, 9);
+    padding: 0 5px;
+}
+.catagory{
+    background-color: rgb(5, 5, 248);
+    padding: 0 5px;
+}
+.adven{
+    background-color:rgb(248, 89, 31);
+    padding: 0 5px;
+}
+.detail-container{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    padding-right: 30px;
+}
+.play-btn{
+    padding: 5px 10px;
+    border: none;
+    border-radius: 15px;
+    color: white;
+    background-color: red;
+}
+.play-btn:hover{
+    padding: 5px 10px;
+    border: none;
+    border-radius: 15px;
+    color: rgb(235, 10, 10);
+    background-color: rgb(0, 255, 21);
+}
+.add-btn{
+    padding: 5px 10px;
+    border: none;
+    border-radius: 15px;
+    color: white;
+    background-color:black;
+}
+.add-btn:hover{
+    padding: 5px 10px;
+    border: none;
+    border-radius: 15px;
+    color: rgb(248, 9, 9);
+    background-color:rgb(47, 235, 63);
+}
+
+.fa-play{
+    font-size: 14px;
+    padding-right: 8px;
+}
+.fa-plus{
+    font-size: 14px;
+    padding-right: 8px;
+}

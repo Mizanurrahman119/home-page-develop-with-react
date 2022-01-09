@@ -1,0 +1,96 @@
+.header{
+    background-color: rgba(85, 3, 44, 0.678);
+    height: 72px;
+    padding: 0px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+a{
+ text-decoration: none;
+ font-weight: 400;
+ font-size: 20px;
+ padding: 10px;
+ color: white;
+}
+.login{
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+    border: none;
+}
+button.sign-up{
+    font-size: 18px;
+    font-weight: 500;
+    padding: 3px 12px;
+    color: white;
+    background-color: rgb(253, 5, 5);
+    border: none;
+    border-radius: 15px;
+}
+button{
+    margin: 10px;
+    border: none;
+}
+
+.logo{
+    font-size: 20px;
+    font-weight: 600px;
+    color: red;
+}
+
+.fa-search{
+    color: red;
+}
+
+.search-bar{
+    color: red;
+}
+
+/*.user-image, .user-image img {
+    width: 40px;
+    height: 35px;
+}
+
+.search-bar {
+    width: 50%;
+    display: flex;
+    justify-content: center;  
+}
+form{
+    display: flex;
+    justify-content: center;
+    width: 70%;
+    
+}
+button{
+    padding: 0px 8px;
+    font-size: 20px;
+    cursor: pointer;
+    height: 29px;
+}
+input{
+    font-size: 15px;
+    width: 100%;
+    padding: 5px 5px 5px 10px;
+    height: 15px;
+    outline: none;
+}
+.fa-user-circle{
+    color: rgb(114, 114, 245);
+    font-size: 32px;
+    margin-right: 10px;
+}
+.logout-btn{
+    background-color: hotpink;
+    border: none;
+    color: white;
+    padding: 3px 5px ;
+    font-weight: 600;
+    border-radius: 3px;
+}
+.fa-film{
+    margin-right: 10px;
+    font-size: 24px;
+} */
